@@ -63,6 +63,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Vanshikaduggal/Vanshikaduggal/output/snake.svg" alt="Snake animation" />
 
-###
+
