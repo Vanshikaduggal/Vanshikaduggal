@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">•🎓 Education: Pursuing Bachelor of Engineering in Computer Science at Chitkara University Institute of Engineering & Technology</p>
+<p align="left">•🎓 Education: Pursuing Bachelor of Engineering in Computer Science at Chitkara University Institute of Engineering & Technology<br>•🔭 Currently building web apps with modern tools and scalable backends.<br>•🤔 Always looking to refine real-time features and optimize performance.<br>•💡 Passionate about creating intuitive user experiences and seamless integrations.<br>•🌍 Keen on contributing to open-source projects and staying updated with tech trends.</p>
 
 ###
 
@@ -22,9 +22,24 @@
 
 ###
 
+<h1 align="left">📊 GitHub Stats:</h1>
+
+###
+
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vanshikaduggal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vanshikaduggal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=Vanshikaduggal&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<h2 align="left">🏆 GitHub Trophies</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=Vanshikaduggal&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
