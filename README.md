@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Vanshika Duggal
 
-![Banner](https://source.unsplash.com/1600x400/?technology,developer)
+![Banner](https://raw.githubusercontent.com/your-username/your-repo/main/assets/banner.png)
+
 
 <div align="center">
   <h3>💻 Full Stack Developer | AI Enthusiast | Problem Solver ✨</h3>
