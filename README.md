@@ -1,9 +1,11 @@
 # Hi there! 👋 I'm Vanshika Duggal
 
 
+
 <div align="center">
   <h3>💻 Full Stack Developer | AI Enthusiast | Problem Solver ✨</h3>
 </div>
+
 
 ---
 
@@ -14,8 +16,8 @@ I'm a passionate **BS-CSE student** who loves exploring and building scalable, i
 ### Connect With Me 🤝
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshika-duggal)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vanshikaduggal)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/vanshikaduggal13/)  
+[[GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vanshikaduggal)  
+[[LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/vanshikaduggal13/)  
 
 
 ### What I'm Up To 🎯
