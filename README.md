@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <h3>💻 Software Developer at **Philips** | Full Stack Developer | AI Enthusiast | Problem Solver ✨</h3>
+  <h3>💻 Software Developer at Philips | Full Stack Developer | AI Enthusiast | Problem Solver ✨</h3>
 </div>
 
 
