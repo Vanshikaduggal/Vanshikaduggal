@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <h3>💻 Full Stack Developer | AI Enthusiast | Problem Solver ✨</h3>
+  <h3>💻 Software Developer at **Philips** | Full Stack Developer | AI Enthusiast | Problem Solver ✨</h3>
 </div>
 
 
@@ -11,7 +11,7 @@
 
 ### About Me ✨
 
-I'm a passionate **BS-CSE student** who loves exploring and building scalable, impactful technology solutions. With a strong foundation in **full-stack development, DevOps, and AI**, I'm constantly pushing my limits by working on real-world projects and competitive programming challenges.
+I'm a passionate BS–CSE student and currently working as an **Apprentice Software Developer at Philips**, where I contribute to real-world, impactful software solutions. With a strong foundation in full-stack development, DevOps, and AI/ML, I enjoy exploring and **building scalable systems**. I constantly push my limits by working on hands-on projects, solving DSA challenges, and experimenting with intelligent and innovative technologies.
 
 ### Connect With Me 🤝
 
@@ -23,6 +23,7 @@ I'm a passionate **BS-CSE student** who loves exploring and building scalable, i
 ### What I'm Up To 🎯
 
 - 🌱 Currently building a **MERN-based e-commerce platform** using **MySQL**
+- 🤖 Actively learning **Machine Learning** fundamentals and algorithms **building solutions** 
 - 🔧 Enhancing my **DevOps skills** after completing a **Coursera DevOps course**
 - ⚙️ Tackling **competitive programming challenges** and solving **DSA problems**
 - ✨ Exploring **AI applications in cybersecurity** to build secure digital infrastructures
